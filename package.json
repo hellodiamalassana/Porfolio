@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://hellodiamalassana/Porfolio",
+  "homepage": "https://hellodiamalassana.github.io/Porfolio/",
   "private": true,
   "dependencies": {
     "@types/node": "^15.14.9",
